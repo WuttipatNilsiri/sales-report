@@ -1,2 +1,2 @@
 # sales-report
-sales-report practice exam
+report items in sale and analyz all sales in store 
